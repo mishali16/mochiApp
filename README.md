@@ -11,8 +11,12 @@ Complete source snapshot of the Mochi meditation and breathing app, including th
 
 ## What is saved
 
-The ZIP preserves all project subdirectories and source files. TypeScript and the production web build passed before this snapshot. Browser verification of the last visual polish was interrupted by the backup request. The iOS project has not been uploaded to TestFlight.
+The ZIP preserves all project subdirectories and source files. TypeScript and the production web build passed before this snapshot. Latest theme, typography, mood bubble and calendar-week changes were checked in the browser preview. The iOS project has not been uploaded to TestFlight.
 
 API keys, passwords, local account databases, local history, dependency caches and generated build output are excluded. Configure a new server environment when restoring. No open-source license has been added; third-party notices remain included.
 
-Archive SHA-256: `952a016e69845c76178f33244c158aca37ef4d1deb656465f39ad23f927acc30`
+Archive SHA-256: `0420ee81f6ef7a3bf5a2832f08007e3762f3393567929ff8113c293215907254`
+
+## Latest update
+
+White background, black text and buttons, larger explore/profile text, larger weekday labels and mood bubbles, no empty-day captions, and Sunday–Saturday current-week mood history. The ZIP includes these latest source changes.
